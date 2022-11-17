@@ -48,7 +48,7 @@
 - ♻️ [REFACTOR] : 전면 수정
 <br></br>
 
-## 📍 
+## 📍 순서
 
 [문제선정 여기서 해주세요](https://patiencelee.tistory.com/1072)
 
