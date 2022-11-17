@@ -47,3 +47,104 @@
 - 🔀 [MERGE] : 다른 브랜치와의 충돌 해결 후 Merge
 - ♻️ [REFACTOR] : 전면 수정
 <br></br>
+
+## 📍 
+
+[문제선정 여기서 해주세요](https://patiencelee.tistory.com/1072)
+
+<details>
+<summary>1주차</summary>
+<div markdown="1">
+- 자료구조 1
+</div>
+<div markdown="2">
+- 자료구조 1(연습)
+</div>
+</details>
+<details>
+<summary>2주차</summary>
+<div markdown="1">
+- 자료구조 1(참고)
+</div>
+<div markdown="2">
+- 수학 1
+</div>
+</details>
+
+<details>
+<summary>3주차</summary>
+<div markdown="1">
+- 수학 1(연습)
+</div>
+<div markdown="2">
+- 수학 1(참고)
+</div>
+</details>
+
+<details>
+<summary>4주차</summary>
+<div markdown="1">
+- 다이나믹 프로그래밍
+</div>
+<div markdown="2">
+- 다이나믹 프로그래밍(연습)
+</div>
+</details>
+
+<details>
+<summary>5주차</summary>
+<div markdown="1">
+- 다이나믹 프로그래밍(도전)
+</div>
+<div markdown="2">
+- 브루트 포스
+</div>
+</details>
+
+<details>
+<summary>6주차</summary>
+<div markdown="1">
+- 브루트 포스 (N과 M)
+</div>
+<div markdown="2">
+- 브루트 포스 (순열)
+</div>
+</details>
+
+<details>
+<summary>7주차</summary>
+<div markdown="1">
+- 브루트 포스(재귀)
+</div>
+<div markdown="2">
+- 브루트 포스(비트마스크)
+</div>
+</details>
+
+<details>
+<summary>8주차</summary>
+<div markdown="1">
+- 그래프 1
+</div>
+<div markdown="2">
+- 그래프 1(연습)
+</div>
+</details>
+
+<details>
+<summary>9주차</summary>
+<div markdown="1">
+- 그래프 1(도전)
+</div>
+<div markdown="2">
+- BFS
+</div>
+</details>
+
+<details>
+<summary>10주차</summary>
+<div markdown="1">
+- 트리 1
+</div>
+</details>
+
