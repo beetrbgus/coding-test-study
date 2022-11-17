@@ -1,11 +1,11 @@
 # Algorithm Study📝
 
 ## 📍 스터디 진행방법
-1. <b>알고리즘 관련 이론을 공부해 블로그 링크를 첨부하거나 깃허브에 정리해 첨부해주세요</b>
+1. <b>알고리즘 관련 이론을 공부해 블로그 링크를 첨부하거나 깃허브에 정리해 첨부해주세요</b>(선택사항)
   - [예시1](https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html )
   - [예시2](https://github.com/AlgorismTest/coding-test-study/tree/main/%EC%9D%B4%EC%A7%80%ED%99%8D/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC/1%EC%A3%BC%EC%B0%A8)
 
-2. <b>매주 일요일 23시 59분까지 개념 정리 및 <b>4문제</b> 이상을 풀이하여 업로드합니다.</b>
+2. <b>매주 일요일 23시 59분까지 <b>4문제</b> 이상을 풀이하여 업로드합니다.</b>
   - 코드와 문제풀이를 깃허브 레포지토리에 업로드합니다. 
   - 기본적으로 개념 관련 문제를 풀고 추가로 개념과 관련이 없는 문제를 풀어도 무관합니다.
   - [문제풀이양식](https://github.com/AlgorismTest/coding-test-study/blob/main/solution%20template.md)
