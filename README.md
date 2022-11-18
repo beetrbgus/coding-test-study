@@ -25,7 +25,7 @@
 | | 이지홍 | 황규현 | 나상민 | 박중현 | 장시문 | 최민정 | 최영재 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | GitHub | [lee-ji-hong](https://github.com/lee-ji-hong) | [beetrbgus](https://github.com/beetrbgus) | [sm9171](https://github.com/sm9171) | [joong2043](https://github.com/joong2043) | [seamoon-dev-git](https://github.com/seamoon-dev-git) | [saiani1](https://github.com/saiani1) | [YoungJae123](https://github.com/YoungJae123) |
-| Language | <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/> | - | - | - | - | - | - |
+| Language | <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | - | - | - | - | - |
 | Week 01</br>(22.11.21.) | - | - | - | - | - | - |
 
 | 업로드 횟수 | 표기 |
