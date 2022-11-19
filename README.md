@@ -15,7 +15,7 @@
   - 이해하기 힘든건 깃허브 issue를 등록하거나 PR을 날려 질문하자.
   - 쉬운것같은 문제도 괜찮으니 망설이지 말고 질문하자.
   - 피드백 받은 후에는 받은 피드백을 적용하여 코드 수정 후 다시 풀어보기
-4. <b>주 1회 온라인으로 간단히 리뷰하고 Q&A 검토</b>
+4. <b>Q&A 검토</b>
 </br>
 ⚠️ 마감 직전에 자신에게 난이도가 낮은 문제를 급하게 풀이하여 올리는 것은 지양합시다!</br>
 ⚠️ 무분별한 결석을 방지하기 위해서 스터디에 참여하지 못하는 경우에는 사전에 사유와 함께 팀원들에게 알려주세요!
@@ -53,16 +53,16 @@
 [문제선정 여기서 해주세요](https://patiencelee.tistory.com/1072)
 
 <details>
-<summary>1주차</summary>
+<summary>1주차 - 이지홍</summary>
 <div markdown="1">
-- 자료구조 1
+- 자료구조 1 (10828,10845)
 </div>
 <div markdown="2">
-- 자료구조 1(연습)
+- 자료구조 1(연습)(10799,17413)
 </div>
 </details>
 <details>
-<summary>2주차</summary>
+<summary>2주차 - 박중현</summary>
 <div markdown="1">
 - 자료구조 1(참고)
 </div>
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary>3주차</summary>
+<summary>3주차 - 나상민</summary>
 <div markdown="1">
 - 수학 1(연습)
 </div>
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary>4주차</summary>
+<summary>4주차 - 장시문</summary>
 <div markdown="1">
 - 다이나믹 프로그래밍
 </div>
@@ -92,7 +92,7 @@
 </details>
 
 <details>
-<summary>5주차</summary>
+<summary>5주차 - 최영재</summary>
 <div markdown="1">
 - 다이나믹 프로그래밍(도전)
 </div>
@@ -102,7 +102,7 @@
 </details>
 
 <details>
-<summary>6주차</summary>
+<summary>6주차 - 최민정</summary>
 <div markdown="1">
 - 브루트 포스 (N과 M)
 </div>
