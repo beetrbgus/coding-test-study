@@ -63,6 +63,7 @@
 </details>
 <details>
 <summary>2주차 - 박중현</summary>
+- 1918, 11656, 1978, 6588
 <div markdown="1">
 - 자료구조 1(참고)
 </div>
