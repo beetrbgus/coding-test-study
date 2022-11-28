@@ -93,7 +93,7 @@
 </details>
 
 <details>
-<summary>5주차 - 최영재</summary>
+<summary>5주차 - 황규현</summary>
 <div markdown="1">
 - 다이나믹 프로그래밍(도전)
 </div>
