@@ -10,3 +10,9 @@
 | 자료구조 | <a href="https://www.acmicpc.net/problem/10845">10845번 : 큐</a>  | <a href="https://github.com/AlgorismTest/coding-test-study/blob/main/%EC%9D%B4%EC%A7%80%ED%99%8D/%EB%AC%B8%EC%A0%9C/1%EC%A3%BC%EC%B0%A8/10845/10845.js">🔗</a>  | <a href="#">:bookmark:</a> |
 | 자료구조 | <a href="https://www.acmicpc.net/problem/17413">17413번 : 단어 뒤집기</a>  | <a href="https://github.com/AlgorismTest/coding-test-study/blob/main/%EC%9D%B4%EC%A7%80%ED%99%8D/%EB%AC%B8%EC%A0%9C/1%EC%A3%BC%EC%B0%A8/17413/17413.js">🔗</a>  | <a href="#">:bookmark:</a> |
 <br>
+
+### Week 02 (22.11.28)
+
+| 유형 | 제목 | 풀이 | Reference Site | 
+| :-------: | :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/1918">1918번 : 후위 표기식</a>  | <a href="https://github.com/AlgorismTest/coding-test-study/blob/main/%EC%9D%B4%EC%A7%80%ED%99%8D/%EB%AC%B8%EC%A0%9C/1%EC%A3%BC%EC%B0%A8/1918/index.js">🔗</a>  | <a href="#">:bookmark:</a> |
