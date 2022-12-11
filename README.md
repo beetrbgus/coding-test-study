@@ -22,12 +22,13 @@
 <br></br>
 
 ## 📍 Progress Record
-| | 이지홍 | 황규현 | 나상민 | 박중현 | 최민정 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| GitHub | [lee-ji-hong](https://github.com/lee-ji-hong) | [beetrbgus](https://github.com/beetrbgus) | [sm9171](https://github.com/sm9171) | [joong2043](https://github.com/joong2043) | [saiani1](https://github.com/saiani1) | [YoungJae123](https://github.com/YoungJae123) |
-| Language | <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | - | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge-square&logo=Python&logoColor=white"/> |
-| Week 01</br>(22.11.21.) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Week 01</br>(22.11.21.) | 1️⃣ | ❌ | ✅ | ✅ | ❌ |
+| | 이지홍 | 황규현 | 나상민 | 박중현 |
+| :---: | :---: | :---: | :---: | :---: |
+| GitHub | [lee-ji-hong](https://github.com/lee-ji-hong) | [beetrbgus](https://github.com/beetrbgus) | [sm9171](https://github.com/sm9171) | [joong2043](https://github.com/joong2043) |
+| Language | <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> |
+| Week 01</br>(22.11.21.) | ✅ | ✅ | ✅ | ✅ |
+| Week 02</br>(22.11.28.) | 1️⃣ | ❌ | ✅ | ✅ |
+| Week 03</br>(22.12.05.) | ✅ | ✅ | ✅ | ✅ |
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
@@ -85,7 +86,7 @@
 </details>
 
 <details>
-<summary>4주차 - 장시문</summary>
+<summary>4주차 - 황규현</summary>
 <div markdown="1">
 - 다이나믹 프로그래밍
 </div>
@@ -95,7 +96,7 @@
 </details>
 
 <details>
-<summary>5주차 - 황규현</summary>
+<summary>5주차 - 이지홍</summary>
 <div markdown="1">
 - 다이나믹 프로그래밍(도전)
 </div>
@@ -105,7 +106,7 @@
 </details>
 
 <details>
-<summary>6주차 - 최민정</summary>
+<summary>6주차 - 박중현</summary>
 <div markdown="1">
 - 브루트 포스 (N과 M)
 </div>
@@ -115,7 +116,7 @@
 </details>
 
 <details>
-<summary>7주차</summary>
+<summary>7주차 - 나상민</summary>
 <div markdown="1">
 - 브루트 포스(재귀)
 </div>
@@ -125,7 +126,7 @@
 </details>
 
 <details>
-<summary>8주차</summary>
+<summary>8주차 - 황규현</summary>
 <div markdown="1">
 - 그래프 1
 </div>
@@ -135,7 +136,7 @@
 </details>
 
 <details>
-<summary>9주차</summary>
+<summary>9주차 - 이지홍</summary>
 <div markdown="1">
 - 그래프 1(도전)
 </div>
@@ -145,7 +146,7 @@
 </details>
 
 <details>
-<summary>10주차</summary>
+<summary>10주차 - 박중현</summary>
 <div markdown="1">
 - 트리 1
 </div>
