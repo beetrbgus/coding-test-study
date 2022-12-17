@@ -33,3 +33,11 @@
 | 수학  |    <a href="https://www.acmicpc.net/problem/9613">GCD 합</a>     | <a href="">🔗</a> |                   <a href="https://wonit.tistory.com/414">Wonit</a>                   |
 | 수학  |  <a href="https://www.acmicpc.net/problem/11653">소인수분해</a>  | <a href="">🔗</a> |                                    <a href="https://st-lab.tistory.com/152">Stranger's LAB 블로그</a>                                    |
 
+### Week 04 (22.12.12.)
+
+|   유형    |                              제목                               |                                                                                   풀이                                                                                    |                         Reference Site                          | 
+|:-------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| 동적프로그래밍 |   <a href="https://www.acmicpc.net/problem/2156">포도주 시식</a>   | <a href="">🔗</a> | <a href="https://st-lab.tistory.com/135">Stranger's LAB 블로그</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9095">1,2,3 더하기</a>  | <a href="">🔗</a> |     <a href="https://lotuslee.tistory.com/43">SY DEVLOG</a>     |
+| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/11722"></a>      | <a href="">🔗</a> |                         <a href=""></a>                         |
+| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/16194"></a>      | <a href="">🔗</a> |                         <a href=""></a>                         |
