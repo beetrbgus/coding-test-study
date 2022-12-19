@@ -39,5 +39,5 @@
 |:-------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
 | 동적프로그래밍 |   <a href="https://www.acmicpc.net/problem/2156">포도주 시식</a>   | <a href="">🔗</a> | <a href="https://st-lab.tistory.com/135">Stranger's LAB 블로그</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9095">1,2,3 더하기</a>  | <a href="">🔗</a> |     <a href="https://lotuslee.tistory.com/43">SY DEVLOG</a>     |
-| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/11722"></a>      | <a href="">🔗</a> |                         <a href=""></a>                         |
-| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/16194"></a>      | <a href="">🔗</a> |                         <a href=""></a>                         |
+| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/11722">가장 긴 감소하는 부분 수열</a>      | <a href="">🔗</a> |   <a href="https://developer-mac.tistory.com/72">나를 위한 노트</a>   |
+| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/16194">카드 구매하기 2</a>      | <a href="">🔗</a> |     <a href="https://binghedev.tistory.com/66">빙허의 개발일기</a>      |
