@@ -41,3 +41,12 @@
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9095">1,2,3 더하기</a>  | <a href="">🔗</a> |     <a href="https://lotuslee.tistory.com/43">SY DEVLOG</a>     |
 | 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/11722">가장 긴 감소하는 부분 수열</a>      | <a href="">🔗</a> |   <a href="https://developer-mac.tistory.com/72">나를 위한 노트</a>   |
 | 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/16194">카드 구매하기 2</a>      | <a href="">🔗</a> |     <a href="https://binghedev.tistory.com/66">빙허의 개발일기</a>      |
+
+### Week 04 (22.12.19.)
+
+| 유형  |                              제목                              |                                                                                   풀이                                                                                    |                    Reference Site                     | 
+|:---:|:------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------:|
+| 재귀  |  <a href="https://www.acmicpc.net/problem/1780">종이의 개수</a>   | <a href="">🔗</a> |                    <a href=""></a>                    |
+| 재귀  | <a href="https://www.acmicpc.net/problem/2448">별 찍기 - 11</a> | <a href="">🔗</a> |                    <a href=""></a>                    |
+| BFS |   <a href="https://www.acmicpc.net/problem/2468">안전 영역</a>   | <a href="">🔗</a> | <a href="https://hyeounstory.tistory.com/180">요르딩딩</a> |
+| BFS |    <a href="https://www.acmicpc.net/problem/7569">토마토</a>    | <a href="">🔗</a> |                    <a href=""></a>                    |
