@@ -99,6 +99,7 @@
 
 <details>
 <summary>5주차 - 이지홍</summary>
+ - 7569,2468,1780,2448
 <div markdown="1">
 - BFS
 </div>
