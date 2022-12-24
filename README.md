@@ -29,6 +29,8 @@
 | Week 01</br>(22.11.21.) | ✅ | ✅ | ✅ | ✅ |
 | Week 02</br>(22.11.28.) | 1️⃣ | ❌ | ✅ | ✅ |
 | Week 03</br>(22.12.05.) | ✅ | ✅ | ✅ | ✅ |
+| Week 03</br>(22.12.12.) | 2️⃣ | ✅ | ✅ | ✅ |
+| Week 03</br>(22.12.19.) | 3️⃣ | ✅ | ❌ | ✅ |
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
@@ -52,7 +54,7 @@
 
 ## 📍 순서
 
-[문제선정 여기서 해주세요](https://patiencelee.tistory.com/1072)
+[문제선정 여기서 해주세요](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
 <details>
 <summary>1주차 - 이지홍</summary>
@@ -98,10 +100,10 @@
 <details>
 <summary>5주차 - 이지홍</summary>
 <div markdown="1">
-- 다이나믹 프로그래밍(도전)
+- BFS
 </div>
 <div markdown="2">
-- 브루트 포스
+- 재귀
 </div>
 </details>
 
