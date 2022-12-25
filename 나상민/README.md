@@ -49,4 +49,4 @@
 | 재귀  |  <a href="https://www.acmicpc.net/problem/1780">종이의 개수</a>   | <a href="">🔗</a> | <a href="https://st-lab.tistory.com/235">Stranger's LAB 블로그</a> |
 | 재귀  | <a href="https://www.acmicpc.net/problem/2448">별 찍기 - 11</a> | <a href="">🔗</a> |   <a href="https://developer-mac.tistory.com/23">나를 위한 노트</a>   |
 | BFS |   <a href="https://www.acmicpc.net/problem/2468">안전 영역</a>   | <a href="">🔗</a> |     <a href="https://hyeounstory.tistory.com/180">요르딩딩</a>      |
-| BFS |    <a href="https://www.acmicpc.net/problem/7569">토마토</a>    | <a href="">🔗</a> |                         <a href=""></a>                         |
+| BFS |    <a href="https://www.acmicpc.net/problem/7569">토마토</a>    | <a href="">🔗</a> |        <a href="https://dragon-h.tistory.com/17">개발일기</a>        |
