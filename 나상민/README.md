@@ -33,3 +33,20 @@
 | 수학  |    <a href="https://www.acmicpc.net/problem/9613">GCD 합</a>     | <a href="">🔗</a> |                   <a href="https://wonit.tistory.com/414">Wonit</a>                   |
 | 수학  |  <a href="https://www.acmicpc.net/problem/11653">소인수분해</a>  | <a href="">🔗</a> |                                    <a href="https://st-lab.tistory.com/152">Stranger's LAB 블로그</a>                                    |
 
+### Week 04 (22.12.12.)
+
+|   유형    |                              제목                               |                                                                                   풀이                                                                                    |                         Reference Site                          | 
+|:-------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| 동적프로그래밍 |   <a href="https://www.acmicpc.net/problem/2156">포도주 시식</a>   | <a href="">🔗</a> | <a href="https://st-lab.tistory.com/135">Stranger's LAB 블로그</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9095">1,2,3 더하기</a>  | <a href="">🔗</a> |     <a href="https://lotuslee.tistory.com/43">SY DEVLOG</a>     |
+| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/11722">가장 긴 감소하는 부분 수열</a>      | <a href="">🔗</a> |   <a href="https://developer-mac.tistory.com/72">나를 위한 노트</a>   |
+| 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/16194">카드 구매하기 2</a>      | <a href="">🔗</a> |     <a href="https://binghedev.tistory.com/66">빙허의 개발일기</a>      |
+
+### Week 04 (22.12.19.)
+
+| 유형  |                              제목                              |                                                                                   풀이                                                                                    |                         Reference Site                          | 
+|:---:|:------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| 재귀  |  <a href="https://www.acmicpc.net/problem/1780">종이의 개수</a>   | <a href="">🔗</a> | <a href="https://st-lab.tistory.com/235">Stranger's LAB 블로그</a> |
+| 재귀  | <a href="https://www.acmicpc.net/problem/2448">별 찍기 - 11</a> | <a href="">🔗</a> |   <a href="https://developer-mac.tistory.com/23">나를 위한 노트</a>   |
+| BFS |   <a href="https://www.acmicpc.net/problem/2468">안전 영역</a>   | <a href="">🔗</a> |     <a href="https://hyeounstory.tistory.com/180">요르딩딩</a>      |
+| BFS |    <a href="https://www.acmicpc.net/problem/7569">토마토</a>    | <a href="">🔗</a> |        <a href="https://dragon-h.tistory.com/17">개발일기</a>        |
