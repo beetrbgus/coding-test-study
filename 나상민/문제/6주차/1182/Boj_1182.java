@@ -8,6 +8,7 @@ class Boj_1182 {
     static int n;
     static int cnt;
     static int s;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -20,20 +21,23 @@ class Boj_1182 {
             arr[i] = Integer.parseInt(st.nextToken());
         }
 
-        backTrack(0, 0, true);
-        System.out.println(cnt);
+        backTrack(0, 0);
+
+        //합이 0일 경우 공집합도 포함되므로 그 수를 하나 빼주고 출력
+        System.out.print(s == 0? --cnt : cnt);
     }
-    private static void backTrack(int k, int sum, boolean gong) {
+
+    private static void backTrack(int k, int sum) {
 
         if (k == n) {
-            if (sum == s && !gong) {
+            if (sum == s) {
                 cnt++;
             }
             return;
         }
 
-        backTrack(k+1, sum, gong);
-        backTrack(k+1, sum+arr[k], false);
+        backTrack(k + 1, sum);
+        backTrack(k + 1, sum + arr[k]);
 
     }
 }
