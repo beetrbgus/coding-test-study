@@ -13,4 +13,109 @@ N개의 정수로 이루어진 수열의 부분수열의 합이 S가 되는 경�
 백트래킹, 재귀
 
 ### 문제를 해결한 방법
-해결 못함.
+```java
+private static void backTrack(int k, int sum) {
+
+        if (k == n) {
+            if (sum == s) {
+                cnt++;
+            }
+        return;
+        }
+
+        backTrack(k + 1, sum); //해당 인덱스를 안 더함
+        backTrack(k + 1, sum + arr[k]); //해당 인덱스를 더함
+
+}
+```
+5 0
+-7 -3 -2 5 8
+
+k = 0
+backTrack(1, 0);
+backTrack(1, -7);
+
+k = 1
+backTrack(2, 0);
+backTrack(2, -3);
+
+backTrack(2, -7);
+backTrack(2, -10);
+
+k = 2
+backTrack(3, 0);
+backTrack(3, -2);
+
+backTrack(3, -3);
+backTrack(3, -5);
+
+backTrack(3, -7);
+backTrack(3, -9);
+
+backTrack(3, -10);
+backTrack(3, -12);
+
+k = 3
+backTrack(4, 0);
+backTrack(4, 5);
+
+backTrack(4, -2);
+backTrack(4, 3);
+
+backTrack(4, -3);
+backTrack(4, 2);
+
+backTrack(4, -5);
+backTrack(4, 0);
+
+backTrack(4, -7);
+backTrack(4, -2);
+
+backTrack(4, -9);
+backTrack(4, -4);
+
+backTrack(4, -10);
+backTrack(4, -7);
+
+k = 4
+backTrack(5, 0);
+backTrack(5, 8);
+
+backTrack(5, 5);  o
+backTrack(5, 13);
+
+backTrack(5, -2);
+backTrack(5, 6);
+
+backTrack(5, 3);
+backTrack(5, 11);
+
+backTrack(5, -3);
+backTrack(5, 5);  o
+
+backTrack(5, 2);
+backTrack(5, 10);
+
+backTrack(5, -5);
+backTrack(5, 3);
+
+backTrack(5, 0);
+backTrack(5, 8);
+
+backTrack(5, -7);
+backTrack(5, 1);
+
+backTrack(5, -2);
+backTrack(5, 6);
+
+backTrack(5, -9);
+backTrack(5, -1);
+
+backTrack(5, -4);
+backTrack(5, 4);
+
+backTrack(5, -10);
+backTrack(5,-2);
+
+backTrack(5, -7);
+backTrack(5, 1);
