@@ -59,3 +59,12 @@
 | 백트래킹  | <a href="https://www.acmicpc.net/problem/15649">N과 M (1)</a> | <a href="">🔗</a> |       <a href="https://velog.io/@bumstead/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9backTracking-JAVA-%EB%B0%B1%EC%A4%80-15649-9663-1182">bumstead.log</a>     |
 | 시뮬레이션 |    <a href="https://www.acmicpc.net/problem/15683">감시</a>    | <a href="">🔗</a> |                                                                     <a href=""></a>                                                                      |
 | 시뮬레이션 |  <a href="https://www.acmicpc.net/problem/15685">드래곤커브</a>   | <a href="">🔗</a> |                                                                     <a href=""></a>                                                                      |
+
+### Week 06 (23.01.02.)
+
+| 유형  |                             제목                              |                    풀이              |                  Reference Site             | 
+|:---:|:-----------------------------------------------------------:|:----------------------------------:|:-------------------------------------------:|
+| 정렬  |   <a href="https://www.acmicpc.net/problem/2752">세수정렬</a>   |         <a href="">🔗</a>          |               <a href=""></a>               |
+| 정렬  |   <a href="https://www.acmicpc.net/problem/10817">세 수</a>   |         <a href="">🔗</a>          |               <a href=""></a>               |
+| 정렬  | <a href="**https://www.acmicpc.net/problem/2750">수 정렬하기</a> |         <a href="">🔗</a>          |               <a href=""></a>               |
+| 정렬  |  <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a>  |         <a href="">🔗</a>          |               <a href=""></a>               |
