@@ -42,7 +42,7 @@
 | 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/11722">가장 긴 감소하는 부분 수열</a>      | <a href="">🔗</a> |   <a href="https://developer-mac.tistory.com/72">나를 위한 노트</a>   |
 | 동적프로그래밍 |     <a href="https://www.acmicpc.net/problem/16194">카드 구매하기 2</a>      | <a href="">🔗</a> |     <a href="https://binghedev.tistory.com/66">빙허의 개발일기</a>      |
 
-### Week 04 (22.12.19.)
+### Week 05 (22.12.19.)
 
 | 유형  |                              제목                              |                                                                                   풀이                                                                                    |                         Reference Site                          | 
 |:---:|:------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
@@ -50,3 +50,21 @@
 | 재귀  | <a href="https://www.acmicpc.net/problem/2448">별 찍기 - 11</a> | <a href="">🔗</a> |   <a href="https://developer-mac.tistory.com/23">나를 위한 노트</a>   |
 | BFS |   <a href="https://www.acmicpc.net/problem/2468">안전 영역</a>   | <a href="">🔗</a> |     <a href="https://hyeounstory.tistory.com/180">요르딩딩</a>      |
 | BFS |    <a href="https://www.acmicpc.net/problem/7569">토마토</a>    | <a href="">🔗</a> |        <a href="https://dragon-h.tistory.com/17">개발일기</a>        |
+
+### Week 06 (22.12.26.)
+
+|  유형   |                              제목                              |                                                                                   풀이                                                                                    |                                                                      Reference Site                                                                      | 
+|:-----:|:------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 백트래킹  |  <a href="https://www.acmicpc.net/problem/1182">부분수열의 합</a>  | <a href="">🔗</a> |      <a href="https://velog.io/@bumstead/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9backTracking-JAVA-%EB%B0%B1%EC%A4%80-15649-9663-1182">bumstead.log</a>      |
+| 백트래킹  | <a href="https://www.acmicpc.net/problem/15649">N과 M (1)</a> | <a href="">🔗</a> |       <a href="https://velog.io/@bumstead/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9backTracking-JAVA-%EB%B0%B1%EC%A4%80-15649-9663-1182">bumstead.log</a>     |
+| 시뮬레이션 |    <a href="https://www.acmicpc.net/problem/15683">감시</a>    | <a href="">🔗</a> |                                                                     <a href=""></a>                                                                      |
+| 시뮬레이션 |  <a href="https://www.acmicpc.net/problem/15685">드래곤커브</a>   | <a href="">🔗</a> |                                                                     <a href=""></a>                                                                      |
+
+### Week 06 (23.01.02.)
+
+| 유형  |                             제목                              |                    풀이              |                         Reference Site                         | 
+|:---:|:-----------------------------------------------------------:|:----------------------------------:|:--------------------------------------------------------------:|
+| 정렬  |   <a href="https://www.acmicpc.net/problem/2752">세수정렬</a>   |         <a href="">🔗</a>          | <a href="https://shanepark.tistory.com/184">shane's planet</a> |
+| 정렬  |   <a href="https://www.acmicpc.net/problem/10817">세 수</a>   |         <a href="">🔗</a>          |                        <a href=""></a>                         |
+| 정렬  | <a href="**https://www.acmicpc.net/problem/2750">수 정렬하기</a> |         <a href="">🔗</a>          |                        <a href=""></a>                         |
+| 정렬  |  <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a>  |         <a href="">🔗</a>          |                        <a href=""></a>                         |
