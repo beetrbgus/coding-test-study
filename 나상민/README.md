@@ -62,9 +62,9 @@
 
 ### Week 06 (23.01.02.)
 
-| 유형  |                             제목                              |                    풀이              |                         Reference Site                         | 
-|:---:|:-----------------------------------------------------------:|:----------------------------------:|:--------------------------------------------------------------:|
-| 정렬  |   <a href="https://www.acmicpc.net/problem/2752">세수정렬</a>   |         <a href="">🔗</a>          | <a href="https://shanepark.tistory.com/184">shane's planet</a> |
-| 정렬  |   <a href="https://www.acmicpc.net/problem/10817">세 수</a>   |         <a href="">🔗</a>          |                        <a href=""></a>                         |
-| 정렬  | <a href="**https://www.acmicpc.net/problem/2750">수 정렬하기</a> |         <a href="">🔗</a>          |                        <a href=""></a>                         |
-| 정렬  |  <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a>  |         <a href="">🔗</a>          |                        <a href=""></a>                         |
+| 유형  |                            제목                             |                    풀이              |                         Reference Site                         | 
+|:---:|:---------------------------------------------------------:|:----------------------------------:|:--------------------------------------------------------------:|
+| 정렬  |  <a href="https://www.acmicpc.net/problem/2752">세수정렬</a>  |         <a href="">🔗</a>          | <a href="https://shanepark.tistory.com/184">shane's planet</a> |
+| 정렬  |  <a href="https://www.acmicpc.net/problem/10817">세 수</a>  |         <a href="">🔗</a>          |                        <a href=""></a>                         |
+| 정렬  | <a href="https://www.acmicpc.net/problem/2750">수 정렬하기</a> |         <a href="">🔗</a>          |                        <a href=""></a>                         |
+| 정렬  | <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a> |         <a href="">🔗</a>          |                        <a href=""></a>                         |
