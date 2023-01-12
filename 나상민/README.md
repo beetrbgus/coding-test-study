@@ -60,7 +60,7 @@
 | 시뮬레이션 |    <a href="https://www.acmicpc.net/problem/15683">감시</a>    | <a href="">🔗</a> |                                                                     <a href=""></a>                                                                      |
 | 시뮬레이션 |  <a href="https://www.acmicpc.net/problem/15685">드래곤커브</a>   | <a href="">🔗</a> |                                                                     <a href=""></a>                                                                      |
 
-### Week 06 (23.01.02.)
+### Week 07 (23.01.02.)
 
 | 유형  |                            제목                             |                    풀이              |                           Reference Site                            | 
 |:---:|:---------------------------------------------------------:|:----------------------------------:|:-------------------------------------------------------------------:|
@@ -68,3 +68,12 @@
 | 정렬  |  <a href="https://www.acmicpc.net/problem/10817">세 수</a>  |         <a href="">🔗</a>          |                           <a href=""></a>                           |
 | 정렬  | <a href="https://www.acmicpc.net/problem/2750">수 정렬하기</a> |         <a href="">🔗</a>          |                           <a href=""></a>                           |
 | 정렬  | <a href="https://www.acmicpc.net/problem/2309">일곱 난쟁이</a> |         <a href="">🔗</a>          | <a href="https://m.blog.naver.com/hanjo1515/221874318797">컴맹탈출기</a> |
+
+### Week 08 (23.01.09.)
+
+|  유형  |                            제목                             |                    풀이              | Reference Site  | 
+|:----:|:---------------------------------------------------------:|:----------------------------------:|:---------------:|
+|  배열  |  <a href="https://www.acmicpc.net/problem/1919">애너그램 만들기</a>  |         <a href="">🔗</a>          | <a href=""></a> |
+|  배열  |  <a href="https://www.acmicpc.net/problem/13300">방 배정</a>  |         <a href="">🔗</a>          | <a href=""></a> |
+|  스택  | <a href="https://www.acmicpc.net/problem/12605">단어순서 뒤집기</a> |         <a href="">🔗</a>          | <a href=""></a> |
+|  스택  | <a href="https://www.acmicpc.net/problem/17608">막대기</a> |         <a href="">🔗</a>          | <a href=""></a> |
