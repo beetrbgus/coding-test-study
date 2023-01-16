@@ -24,18 +24,24 @@
 <br></br>
 
 ## 📍 Progress Record
-|                                    | 이지홍 | 황규현 |                                                나상민                                                |                                                박중현                                                |
-|:----------------------------------:| :---: | :---: |:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-|               GitHub               | [lee-ji-hong](https://github.com/lee-ji-hong) | [beetrbgus](https://github.com/beetrbgus) |                                [sm9171](https://github.com/sm9171)                                |                             [joong2043](https://github.com/joong2043)                             |
-|              Language              | <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> |
-| Week 01</br>(22.11.21. ~ 22.11.27) | ✅ | ✅ |                                                 ✅                                                 |                                                 ✅                                                 |
-| Week 02</br>(22.11.28. ~ 22.12.04) | 2️⃣ | ❌ |                                                 ✅                                                 |                                                 ✅                                                 |
-| Week 03</br>(22.12.05. ~ 22.12.11) | ✅ | ✅ |                                                 ✅                                                 |                                                 ✅                                                 |
-| Week 04</br>(22.12.12. ~ 22.12.18) | 3️⃣ | ✅ |                                                 ❌                                                 |                                                 ✅                                                 |
-| Week 05</br>(22.12.19. ~ 22.12.25) | 1️⃣(사랑니) | ❌(코로나) |                                                 ✅                                                 |                                                 ❌                                                 |
-| Week 06</br>(22.12.26. ~ 23.01.01) | ✅ | 2️⃣ |                                                 ✅                                                 |                                                 ✅                                                 |
-| Week 07</br>(23.01.02. ~ 23.01.08) | ✅ | ✅ |                                                 ✅                                                 |                                                 -                                                 |
-| Week 08</br>(23.01.09. ~ 23.01.15) |  | ✅ |                                            ❌  <br/>(개인 사유)                                            |                                                 -                                                 |
+| | 이지홍 | 황규현 | 나상민 | 박중현 |
+|:---:|:---:|:---:|:---:|:---:|
+| GitHub | [lee-ji-hong](https://github.com/lee-ji-hong) | [beetrbgus](https://github.com/beetrbgus) | [sm9171](https://github.com/sm9171) |                       [joong2043](https://github.com/joong2043) |
+| Language | <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> |
+| Week 01</br>(22.11.21. ~ 22.11.27) | ✅ | ✅ | ✅ | ✅ |
+| Week 02</br>(22.11.28. ~ 22.12.04) | 2️⃣ | ❌ | ✅ | ✅ |
+| Week 03</br>(22.12.05. ~ 22.12.11) | ✅ | ✅ | ✅ | ✅ |
+| Week 04</br>(22.12.12. ~ 22.12.18) | 3️⃣ | ✅ | ❌ | ✅ |
+| Week 05</br>(22.12.19. ~ 22.12.25) | 1️⃣(사랑니) | ❌(코로나) | ✅ | ❌ |
+| Week 06</br>(22.12.26. ~ 23.01.01) | ✅ | 2️⃣ | ✅ | ✅ |
+| - | 🎊시즌 1 종료 | - | - |
+
+| | 이지홍 | 황규현 | 나상민 |
+|:---:|:---:|:---:|:---:|
+| GitHub | [lee-ji-hong](https://github.com/lee-ji-hong) | [beetrbgus](https://github.com/beetrbgus) | [sm9171](https://github.com/sm9171) |                       
+| Language | <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> |
+| Week 07</br>(23.01.02. ~ 23.01.08) | ✅ | ✅ | ✅|
+| Week 08</br>(23.01.09. ~ 23.01.15) | ❌ | ✅ | ✅ |
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
@@ -71,8 +77,8 @@
 | Week 06</br>(22.12.26) | 백트래킹, 시물레이션 | 15649, 1182, 15683, 15685 | 박중현 |
 | Week 07</br>(23.01.02) | 정렬1, 정렬2 | 2752, 10817, 2750, 2309  | 나상민 |
 | - | 🎊시즌 1 종료 | - | - |
-| Week 08</br>(23.01.02 ~ 23.01.08) | 배열, 스택 | - | 황규현 |
-| Week 09</br>(23.01.09 ~ 23.01.15) | 큐, 덱 | - | 이지홍 |
+| Week 08</br>(23.01.02 ~ 23.01.08) | 배열, 스택 | 1919, 13300, 12605, 17608 | 황규현 |
+| Week 09</br>(23.01.09 ~ 23.01.15) | 큐, 덱 | 10845, 18258, 10866, 13333 | 이지홍 |
 | Week 10</br>(23.01.16 ~ 23.01.22) | 연결리스트,동적계획법 | - | 나상민 |
 | Week 11</br>(23.01.23 ~ 23.01.29) | 수학1 | - | - |
 | Week 12</br>(23.01.30 ~ 23.02.05) | 해시, 힙 | - | - |
