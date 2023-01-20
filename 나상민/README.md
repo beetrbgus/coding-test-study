@@ -77,3 +77,12 @@
 |  배열  |  <a href="https://www.acmicpc.net/problem/13300">방 배정</a>  |         <a href="">🔗</a>          | <a href=""></a> |
 |  스택  | <a href="https://www.acmicpc.net/problem/12605">단어순서 뒤집기</a> |         <a href="">🔗</a>          | <a href=""></a> |
 |  스택  | <a href="https://www.acmicpc.net/problem/17608">막대기</a> |         <a href="">🔗</a>          | <a href=""></a> |
+
+### Week 09 (23.01.09.)
+
+| 유형  |                            제목                             |                    풀이              | Reference Site  | 
+|:---:|:---------------------------------------------------------:|:----------------------------------:|:---------------:|
+|  큐  |   <a href="https://www.acmicpc.net/problem/10845">큐</a>   |         <a href="">🔗</a>          | <a href=""></a> |
+|  큐  |  <a href="https://www.acmicpc.net/problem/18258">큐2</a>   |         <a href="">🔗</a>          | <a href=""></a> |
+|  덱  |   <a href="https://www.acmicpc.net/problem/10866">덱</a>   |         <a href="">🔗</a>          | <a href=""></a> |
+|  덱  | <a href="https://www.acmicpc.net/problem/13333">Q-인덱스</a> |         <a href="">🔗</a>          | <a href=""></a> |
