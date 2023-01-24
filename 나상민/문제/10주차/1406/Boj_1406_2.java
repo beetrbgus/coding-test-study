@@ -3,7 +3,7 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 //Stack + bufferedwriter를 이용하여 시간초과 문제 해결
-class Scratch {
+class Boj_1406_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
